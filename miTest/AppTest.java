@@ -1,5 +1,9 @@
 package miTest;
-
+import logica.Auxiliar;
+import logica.Chofer;
+import logica.Empleado;
+import logica.Repartidor;
+import logica.Supervisor;
 import miPrincipal.*;
 
 import org.junit.jupiter.api.Test;

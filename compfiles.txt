@@ -1,7 +1,7 @@
 ./miTest/AppTest.java
-./miPrincipal/Empleado.java
-./miPrincipal/Chofer.java
-./miPrincipal/Auxiliar.java
-./miPrincipal/Supervisor.java
 ./miPrincipal/Principal.java
-./miPrincipal/Repartidor.java
+./logica/Empleado.java
+./logica/Chofer.java
+./logica/Auxiliar.java
+./logica/Supervisor.java
+./logica/Repartidor.java
